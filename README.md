@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mcgha
 - 👀 I’m interested in full stack web development.
-- 🌱 I’m currently learning advanced JS Concepts, and Python.
+- 🌱 I’m currently learning advanced JS Concepts, and Ruby on Rails.
 - 💞️ I’m looking to collaborate on any projects on technology, sustainability, and innovation.
 - 📫 How to reach me marcoscampos.2500@gmail.com
 
