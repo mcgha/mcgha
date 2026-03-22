@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mcgha
-- 👀 I’m interested in full stack app development.
-- 🌱 Over 5 years of Ruby on Rails experience.
-- 💞️ I’m looking to collaborate on any projects on technology, sustainability, and innovation.
+- 💻 I’m interested in full stack app development.
+- 💎 Over 5 years of Ruby on Rails experience.
+- 👨‍💻 I’m looking to collaborate on any projects on technology, sustainability, and innovation.
 - 📫 How to reach me mcgha@proton.me
 
 <!---
