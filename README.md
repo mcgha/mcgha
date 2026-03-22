@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mcgha
-- 👀 I’m interested in full stack web development.
-- 🌱 I’m currently learning advanced JS Concepts, and Ruby on Rails.
+- 👀 I’m interested in full stack app development.
+- 🌱 Over 5 years of Ruby on Rails experience.
 - 💞️ I’m looking to collaborate on any projects on technology, sustainability, and innovation.
-- 📫 How to reach me marcoscampos.2500@gmail.com
+- 📫 How to reach me mcgha@proton.me
 
 <!---
 mcgha/mcgha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
